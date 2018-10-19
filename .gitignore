@@ -71,4 +71,5 @@ typings/
 
 # Serverless directories
 .serverless
+# DS DS_Store
 .DS_Store
