@@ -5,5 +5,7 @@
 ## Directory
 Master Branch - Bootstrap Template
 
-## Bootstrap Template Info
-Example site: http://alexander-carlston.surge.sh
+## Node template
+Node
+Express
+Knex
